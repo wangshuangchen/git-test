@@ -8,6 +8,7 @@ public class GetTest {
         System.out.println("hello world4 -hot-fix");
         System.out.println("master 和刚才的master分支写反了");
         System.out.println("hot-fix");
+        System.out.println("pull ");
     }
 
 }
