@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="186dd71a-5ea8-4bfb-b507-f107971beaa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/git/GetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GetTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2DxsbFMIyWvRHXjdzKufMRy4rlT" />
@@ -65,6 +70,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.GetTest" />
+        <item itemvalue="Application.GetTest" />
+        <item itemvalue="Application.GetTest" />
+        <item itemvalue="Application.GetTest" />
+        <item itemvalue="Application.GetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +99,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hot-fix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="38" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="93" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
