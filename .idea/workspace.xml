@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="186dd71a-5ea8-4bfb-b507-f107971beaa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/GetTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661668223778</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hot-fix commit1">
+      <created>1661669016857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661669016857</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hot-fix commit2">
+      <created>1661669157556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661669157556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="hot-fix commit1" />
+    <MESSAGE value="hot-fix commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit2" />
   </component>
 </project>
